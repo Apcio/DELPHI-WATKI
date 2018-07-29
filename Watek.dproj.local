@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.464,C:\Praca\euco\Testy\Wątki\Watek.dproj=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.272,=C:\Praca\euco\Testy\Wątki\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.867,C:\Praca\euco\Testy\Wątki\Main.pas=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.867,C:\Praca\euco\Testy\Wątki\Main.dfm=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.918,C:\Praca\euco\Testy\Wątki\Worker.pas=C:\Praca\euco\Testy\Wątki\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.076,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.322,=C:\Users\admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
